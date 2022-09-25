@@ -143,5 +143,6 @@ color: rgb(160, 160, 160);
     }
     .instagram-continue{
         width: 100%;
+        font-size: medium;
     }
 }
